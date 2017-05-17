@@ -1,0 +1,1975 @@
+@relation  gap
+
+@attribute word_0 numeric
+@attribute word_1 numeric
+@attribute word_2 numeric
+@attribute word_3 numeric
+@attribute word_4 numeric
+@attribute word_5 numeric
+@attribute word_6 numeric
+@attribute word_7 numeric
+@attribute word_8 numeric
+@attribute word_9 numeric
+@attribute word_10 numeric
+@attribute word_11 numeric
+@attribute word_12 numeric
+@attribute word_13 numeric
+@attribute word_14 numeric
+@attribute word_15 numeric
+@attribute word_16 numeric
+@attribute word_17 numeric
+@attribute word_18 numeric
+@attribute word_19 numeric
+@attribute word_20 numeric
+@attribute word_21 numeric
+@attribute word_22 numeric
+@attribute word_23 numeric
+@attribute word_24 numeric
+@attribute word_25 numeric
+@attribute word_26 numeric
+@attribute word_27 numeric
+@attribute word_28 numeric
+@attribute word_29 numeric
+@attribute word_30 numeric
+@attribute word_31 numeric
+@attribute word_32 numeric
+@attribute word_33 numeric
+@attribute word_34 numeric
+@attribute word_35 numeric
+@attribute word_36 numeric
+@attribute word_37 numeric
+@attribute word_38 numeric
+@attribute word_39 numeric
+@attribute word_40 numeric
+@attribute word_41 numeric
+@attribute word_42 numeric
+@attribute word_43 numeric
+@attribute word_44 numeric
+@attribute word_45 numeric
+@attribute word_46 numeric
+@attribute word_47 numeric
+@attribute word_48 numeric
+@attribute word_49 numeric
+@attribute word_50 numeric
+@attribute word_51 numeric
+@attribute word_52 numeric
+@attribute word_53 numeric
+@attribute word_54 numeric
+@attribute word_55 numeric
+@attribute word_56 numeric
+@attribute word_57 numeric
+@attribute word_58 numeric
+@attribute word_59 numeric
+@attribute word_60 numeric
+@attribute word_61 numeric
+@attribute word_62 numeric
+@attribute word_63 numeric
+@attribute word_64 numeric
+@attribute word_65 numeric
+@attribute word_66 numeric
+@attribute word_67 numeric
+@attribute word_68 numeric
+@attribute word_69 numeric
+@attribute word_70 numeric
+@attribute word_71 numeric
+@attribute word_72 numeric
+@attribute word_73 numeric
+@attribute word_74 numeric
+@attribute word_75 numeric
+@attribute word_76 numeric
+@attribute word_77 numeric
+@attribute word_78 numeric
+@attribute word_79 numeric
+@attribute word_80 numeric
+@attribute word_81 numeric
+@attribute word_82 numeric
+@attribute word_83 numeric
+@attribute word_84 numeric
+@attribute word_85 numeric
+@attribute word_86 numeric
+@attribute word_87 numeric
+@attribute word_88 numeric
+@attribute word_89 numeric
+@attribute word_90 numeric
+@attribute word_91 numeric
+@attribute word_92 numeric
+@attribute word_93 numeric
+@attribute word_94 numeric
+@attribute word_95 numeric
+@attribute word_96 numeric
+@attribute word_97 numeric
+@attribute word_98 numeric
+@attribute word_99 numeric
+@attribute word_100 numeric
+@attribute word_101 numeric
+@attribute word_102 numeric
+@attribute word_103 numeric
+@attribute word_104 numeric
+@attribute word_105 numeric
+@attribute word_106 numeric
+@attribute word_107 numeric
+@attribute word_108 numeric
+@attribute word_109 numeric
+@attribute word_110 numeric
+@attribute word_111 numeric
+@attribute word_112 numeric
+@attribute word_113 numeric
+@attribute word_114 numeric
+@attribute word_115 numeric
+@attribute word_116 numeric
+@attribute word_117 numeric
+@attribute word_118 numeric
+@attribute word_119 numeric
+@attribute word_120 numeric
+@attribute word_121 numeric
+@attribute word_122 numeric
+@attribute word_123 numeric
+@attribute word_124 numeric
+@attribute word_125 numeric
+@attribute word_126 numeric
+@attribute word_127 numeric
+@attribute word_128 numeric
+@attribute word_129 numeric
+@attribute word_130 numeric
+@attribute word_131 numeric
+@attribute word_132 numeric
+@attribute word_133 numeric
+@attribute word_134 numeric
+@attribute word_135 numeric
+@attribute word_136 numeric
+@attribute word_137 numeric
+@attribute word_138 numeric
+@attribute word_139 numeric
+@attribute word_140 numeric
+@attribute word_141 numeric
+@attribute word_142 numeric
+@attribute word_143 numeric
+@attribute word_144 numeric
+@attribute word_145 numeric
+@attribute word_146 numeric
+@attribute word_147 numeric
+@attribute word_148 numeric
+@attribute word_149 numeric
+@attribute word_150 numeric
+@attribute word_151 numeric
+@attribute word_152 numeric
+@attribute word_153 numeric
+@attribute word_154 numeric
+@attribute word_155 numeric
+@attribute word_156 numeric
+@attribute word_157 numeric
+@attribute word_158 numeric
+@attribute word_159 numeric
+@attribute word_160 numeric
+@attribute word_161 numeric
+@attribute word_162 numeric
+@attribute word_163 numeric
+@attribute word_164 numeric
+@attribute word_165 numeric
+@attribute word_166 numeric
+@attribute word_167 numeric
+@attribute word_168 numeric
+@attribute word_169 numeric
+@attribute word_170 numeric
+@attribute word_171 numeric
+@attribute word_172 numeric
+@attribute word_173 numeric
+@attribute word_174 numeric
+@attribute word_175 numeric
+@attribute word_176 numeric
+@attribute word_177 numeric
+@attribute word_178 numeric
+@attribute word_179 numeric
+@attribute word_180 numeric
+@attribute word_181 numeric
+@attribute word_182 numeric
+@attribute word_183 numeric
+@attribute word_184 numeric
+@attribute word_185 numeric
+@attribute word_186 numeric
+@attribute word_187 numeric
+@attribute word_188 numeric
+@attribute word_189 numeric
+@attribute word_190 numeric
+@attribute word_191 numeric
+@attribute word_192 numeric
+@attribute word_193 numeric
+@attribute word_194 numeric
+@attribute word_195 numeric
+@attribute word_196 numeric
+@attribute word_197 numeric
+@attribute word_198 numeric
+@attribute word_199 numeric
+@attribute word_200 numeric
+@attribute word_201 numeric
+@attribute word_202 numeric
+@attribute word_203 numeric
+@attribute word_204 numeric
+@attribute word_205 numeric
+@attribute word_206 numeric
+@attribute word_207 numeric
+@attribute word_208 numeric
+@attribute word_209 numeric
+@attribute word_210 numeric
+@attribute word_211 numeric
+@attribute word_212 numeric
+@attribute word_213 numeric
+@attribute word_214 numeric
+@attribute word_215 numeric
+@attribute word_216 numeric
+@attribute word_217 numeric
+@attribute word_218 numeric
+@attribute word_219 numeric
+@attribute word_220 numeric
+@attribute word_221 numeric
+@attribute word_222 numeric
+@attribute word_223 numeric
+@attribute word_224 numeric
+@attribute word_225 numeric
+@attribute word_226 numeric
+@attribute word_227 numeric
+@attribute word_228 numeric
+@attribute word_229 numeric
+@attribute word_230 numeric
+@attribute word_231 numeric
+@attribute word_232 numeric
+@attribute word_233 numeric
+@attribute word_234 numeric
+@attribute word_235 numeric
+@attribute word_236 numeric
+@attribute word_237 numeric
+@attribute word_238 numeric
+@attribute word_239 numeric
+@attribute word_240 numeric
+@attribute word_241 numeric
+@attribute word_242 numeric
+@attribute word_243 numeric
+@attribute word_244 numeric
+@attribute word_245 numeric
+@attribute word_246 numeric
+@attribute word_247 numeric
+@attribute word_248 numeric
+@attribute word_249 numeric
+@attribute word_250 numeric
+@attribute word_251 numeric
+@attribute word_252 numeric
+@attribute word_253 numeric
+@attribute word_254 numeric
+@attribute word_255 numeric
+@attribute word_256 numeric
+@attribute word_257 numeric
+@attribute word_258 numeric
+@attribute word_259 numeric
+@attribute word_260 numeric
+@attribute word_261 numeric
+@attribute word_262 numeric
+@attribute word_263 numeric
+@attribute word_264 numeric
+@attribute word_265 numeric
+@attribute word_266 numeric
+@attribute word_267 numeric
+@attribute word_268 numeric
+@attribute word_269 numeric
+@attribute word_270 numeric
+@attribute word_271 numeric
+@attribute word_272 numeric
+@attribute word_273 numeric
+@attribute word_274 numeric
+@attribute word_275 numeric
+@attribute word_276 numeric
+@attribute word_277 numeric
+@attribute word_278 numeric
+@attribute word_279 numeric
+@attribute word_280 numeric
+@attribute word_281 numeric
+@attribute word_282 numeric
+@attribute word_283 numeric
+@attribute word_284 numeric
+@attribute word_285 numeric
+@attribute word_286 numeric
+@attribute word_287 numeric
+@attribute word_288 numeric
+@attribute word_289 numeric
+@attribute word_290 numeric
+@attribute word_291 numeric
+@attribute word_292 numeric
+@attribute word_293 numeric
+@attribute word_294 numeric
+@attribute word_295 numeric
+@attribute word_296 numeric
+@attribute word_297 numeric
+@attribute word_298 numeric
+@attribute word_299 numeric
+@attribute word_300 numeric
+@attribute word_301 numeric
+@attribute word_302 numeric
+@attribute word_303 numeric
+@attribute word_304 numeric
+@attribute word_305 numeric
+@attribute word_306 numeric
+@attribute word_307 numeric
+@attribute word_308 numeric
+@attribute word_309 numeric
+@attribute word_310 numeric
+@attribute word_311 numeric
+@attribute word_312 numeric
+@attribute word_313 numeric
+@attribute word_314 numeric
+@attribute word_315 numeric
+@attribute word_316 numeric
+@attribute word_317 numeric
+@attribute word_318 numeric
+@attribute word_319 numeric
+@attribute word_320 numeric
+@attribute word_321 numeric
+@attribute word_322 numeric
+@attribute word_323 numeric
+@attribute word_324 numeric
+@attribute word_325 numeric
+@attribute word_326 numeric
+@attribute word_327 numeric
+@attribute word_328 numeric
+@attribute word_329 numeric
+@attribute word_330 numeric
+@attribute word_331 numeric
+@attribute word_332 numeric
+@attribute word_333 numeric
+@attribute word_334 numeric
+@attribute word_335 numeric
+@attribute word_336 numeric
+@attribute word_337 numeric
+@attribute word_338 numeric
+@attribute word_339 numeric
+@attribute word_340 numeric
+@attribute word_341 numeric
+@attribute word_342 numeric
+@attribute word_343 numeric
+@attribute word_344 numeric
+@attribute word_345 numeric
+@attribute word_346 numeric
+@attribute word_347 numeric
+@attribute word_348 numeric
+@attribute word_349 numeric
+@attribute word_350 numeric
+@attribute word_351 numeric
+@attribute word_352 numeric
+@attribute word_353 numeric
+@attribute word_354 numeric
+@attribute word_355 numeric
+@attribute word_356 numeric
+@attribute word_357 numeric
+@attribute word_358 numeric
+@attribute word_359 numeric
+@attribute word_360 numeric
+@attribute word_361 numeric
+@attribute word_362 numeric
+@attribute word_363 numeric
+@attribute word_364 numeric
+@attribute word_365 numeric
+@attribute word_366 numeric
+@attribute word_367 numeric
+@attribute word_368 numeric
+@attribute word_369 numeric
+@attribute word_370 numeric
+@attribute word_371 numeric
+@attribute word_372 numeric
+@attribute word_373 numeric
+@attribute word_374 numeric
+@attribute word_375 numeric
+@attribute word_376 numeric
+@attribute word_377 numeric
+@attribute word_378 numeric
+@attribute word_379 numeric
+@attribute word_380 numeric
+@attribute word_381 numeric
+@attribute word_382 numeric
+@attribute word_383 numeric
+@attribute word_384 numeric
+@attribute word_385 numeric
+@attribute word_386 numeric
+@attribute word_387 numeric
+@attribute word_388 numeric
+@attribute word_389 numeric
+@attribute word_390 numeric
+@attribute word_391 numeric
+@attribute word_392 numeric
+@attribute word_393 numeric
+@attribute word_394 numeric
+@attribute word_395 numeric
+@attribute word_396 numeric
+@attribute word_397 numeric
+@attribute word_398 numeric
+@attribute word_399 numeric
+@attribute word_400 numeric
+@attribute word_401 numeric
+@attribute word_402 numeric
+@attribute word_403 numeric
+@attribute word_404 numeric
+@attribute word_405 numeric
+@attribute word_406 numeric
+@attribute word_407 numeric
+@attribute word_408 numeric
+@attribute word_409 numeric
+@attribute word_410 numeric
+@attribute word_411 numeric
+@attribute word_412 numeric
+@attribute word_413 numeric
+@attribute word_414 numeric
+@attribute word_415 numeric
+@attribute word_416 numeric
+@attribute word_417 numeric
+@attribute word_418 numeric
+@attribute word_419 numeric
+@attribute word_420 numeric
+@attribute word_421 numeric
+@attribute word_422 numeric
+@attribute word_423 numeric
+@attribute word_424 numeric
+@attribute word_425 numeric
+@attribute word_426 numeric
+@attribute word_427 numeric
+@attribute word_428 numeric
+@attribute word_429 numeric
+@attribute word_430 numeric
+@attribute word_431 numeric
+@attribute word_432 numeric
+@attribute word_433 numeric
+@attribute word_434 numeric
+@attribute word_435 numeric
+@attribute word_436 numeric
+@attribute word_437 numeric
+@attribute word_438 numeric
+@attribute word_439 numeric
+@attribute word_440 numeric
+@attribute word_441 numeric
+@attribute word_442 numeric
+@attribute word_443 numeric
+@attribute word_444 numeric
+@attribute word_445 numeric
+@attribute word_446 numeric
+@attribute word_447 numeric
+@attribute word_448 numeric
+@attribute word_449 numeric
+@attribute word_450 numeric
+@attribute word_451 numeric
+@attribute word_452 numeric
+@attribute word_453 numeric
+@attribute word_454 numeric
+@attribute word_455 numeric
+@attribute word_456 numeric
+@attribute word_457 numeric
+@attribute word_458 numeric
+@attribute word_459 numeric
+@attribute word_460 numeric
+@attribute word_461 numeric
+@attribute word_462 numeric
+@attribute word_463 numeric
+@attribute word_464 numeric
+@attribute word_465 numeric
+@attribute word_466 numeric
+@attribute word_467 numeric
+@attribute word_468 numeric
+@attribute word_469 numeric
+@attribute word_470 numeric
+@attribute word_471 numeric
+@attribute word_472 numeric
+@attribute word_473 numeric
+@attribute word_474 numeric
+@attribute word_475 numeric
+@attribute word_476 numeric
+@attribute word_477 numeric
+@attribute word_478 numeric
+@attribute word_479 numeric
+@attribute word_480 numeric
+@attribute word_481 numeric
+@attribute word_482 numeric
+@attribute word_483 numeric
+@attribute word_484 numeric
+@attribute word_485 numeric
+@attribute word_486 numeric
+@attribute word_487 numeric
+@attribute word_488 numeric
+@attribute word_489 numeric
+@attribute word_490 numeric
+@attribute word_491 numeric
+@attribute word_492 numeric
+@attribute word_493 numeric
+@attribute word_494 numeric
+@attribute word_495 numeric
+@attribute word_496 numeric
+@attribute word_497 numeric
+@attribute word_498 numeric
+@attribute word_499 numeric
+@attribute word_500 numeric
+@attribute word_501 numeric
+@attribute word_502 numeric
+@attribute word_503 numeric
+@attribute word_504 numeric
+@attribute word_505 numeric
+@attribute word_506 numeric
+@attribute word_507 numeric
+@attribute word_508 numeric
+@attribute word_509 numeric
+@attribute word_510 numeric
+@attribute word_511 numeric
+@attribute word_512 numeric
+@attribute word_513 numeric
+@attribute word_514 numeric
+@attribute word_515 numeric
+@attribute word_516 numeric
+@attribute word_517 numeric
+@attribute word_518 numeric
+@attribute word_519 numeric
+@attribute word_520 numeric
+@attribute word_521 numeric
+@attribute word_522 numeric
+@attribute word_523 numeric
+@attribute word_524 numeric
+@attribute word_525 numeric
+@attribute word_526 numeric
+@attribute word_527 numeric
+@attribute word_528 numeric
+@attribute word_529 numeric
+@attribute word_530 numeric
+@attribute word_531 numeric
+@attribute word_532 numeric
+@attribute word_533 numeric
+@attribute word_534 numeric
+@attribute word_535 numeric
+@attribute word_536 numeric
+@attribute word_537 numeric
+@attribute word_538 numeric
+@attribute word_539 numeric
+@attribute word_540 numeric
+@attribute word_541 numeric
+@attribute word_542 numeric
+@attribute word_543 numeric
+@attribute word_544 numeric
+@attribute word_545 numeric
+@attribute word_546 numeric
+@attribute word_547 numeric
+@attribute word_548 numeric
+@attribute word_549 numeric
+@attribute word_550 numeric
+@attribute word_551 numeric
+@attribute word_552 numeric
+@attribute word_553 numeric
+@attribute word_554 numeric
+@attribute word_555 numeric
+@attribute word_556 numeric
+@attribute word_557 numeric
+@attribute word_558 numeric
+@attribute word_559 numeric
+@attribute word_560 numeric
+@attribute word_561 numeric
+@attribute word_562 numeric
+@attribute word_563 numeric
+@attribute word_564 numeric
+@attribute word_565 numeric
+@attribute word_566 numeric
+@attribute word_567 numeric
+@attribute word_568 numeric
+@attribute word_569 numeric
+@attribute word_570 numeric
+@attribute word_571 numeric
+@attribute word_572 numeric
+@attribute word_573 numeric
+@attribute word_574 numeric
+@attribute word_575 numeric
+@attribute word_576 numeric
+@attribute word_577 numeric
+@attribute word_578 numeric
+@attribute word_579 numeric
+@attribute word_580 numeric
+@attribute word_581 numeric
+@attribute word_582 numeric
+@attribute word_583 numeric
+@attribute word_584 numeric
+@attribute word_585 numeric
+@attribute word_586 numeric
+@attribute word_587 numeric
+@attribute word_588 numeric
+@attribute word_589 numeric
+@attribute word_590 numeric
+@attribute word_591 numeric
+@attribute word_592 numeric
+@attribute word_593 numeric
+@attribute word_594 numeric
+@attribute word_595 numeric
+@attribute word_596 numeric
+@attribute word_597 numeric
+@attribute word_598 numeric
+@attribute word_599 numeric
+@attribute word_600 numeric
+@attribute word_601 numeric
+@attribute word_602 numeric
+@attribute word_603 numeric
+@attribute word_604 numeric
+@attribute word_605 numeric
+@attribute word_606 numeric
+@attribute word_607 numeric
+@attribute word_608 numeric
+@attribute word_609 numeric
+@attribute word_610 numeric
+@attribute word_611 numeric
+@attribute word_612 numeric
+@attribute word_613 numeric
+@attribute word_614 numeric
+@attribute word_615 numeric
+@attribute word_616 numeric
+@attribute word_617 numeric
+@attribute word_618 numeric
+@attribute word_619 numeric
+@attribute word_620 numeric
+@attribute word_621 numeric
+@attribute word_622 numeric
+@attribute word_623 numeric
+@attribute word_624 numeric
+@attribute word_625 numeric
+@attribute word_626 numeric
+@attribute word_627 numeric
+@attribute word_628 numeric
+@attribute word_629 numeric
+@attribute word_630 numeric
+@attribute word_631 numeric
+@attribute word_632 numeric
+@attribute word_633 numeric
+@attribute word_634 numeric
+@attribute word_635 numeric
+@attribute word_636 numeric
+@attribute word_637 numeric
+@attribute word_638 numeric
+@attribute word_639 numeric
+@attribute word_640 numeric
+@attribute word_641 numeric
+@attribute word_642 numeric
+@attribute word_643 numeric
+@attribute word_644 numeric
+@attribute word_645 numeric
+@attribute word_646 numeric
+@attribute word_647 numeric
+@attribute word_648 numeric
+@attribute word_649 numeric
+@attribute word_650 numeric
+@attribute word_651 numeric
+@attribute word_652 numeric
+@attribute word_653 numeric
+@attribute word_654 numeric
+@attribute word_655 numeric
+@attribute word_656 numeric
+@attribute word_657 numeric
+@attribute word_658 numeric
+@attribute word_659 numeric
+@attribute word_660 numeric
+@attribute word_661 numeric
+@attribute word_662 numeric
+@attribute word_663 numeric
+@attribute word_664 numeric
+@attribute word_665 numeric
+@attribute word_666 numeric
+@attribute word_667 numeric
+@attribute word_668 numeric
+@attribute word_669 numeric
+@attribute word_670 numeric
+@attribute word_671 numeric
+@attribute word_672 numeric
+@attribute word_673 numeric
+@attribute word_674 numeric
+@attribute word_675 numeric
+@attribute word_676 numeric
+@attribute word_677 numeric
+@attribute word_678 numeric
+@attribute word_679 numeric
+@attribute word_680 numeric
+@attribute word_681 numeric
+@attribute word_682 numeric
+@attribute word_683 numeric
+@attribute word_684 numeric
+@attribute word_685 numeric
+@attribute word_686 numeric
+@attribute word_687 numeric
+@attribute word_688 numeric
+@attribute word_689 numeric
+@attribute word_690 numeric
+@attribute word_691 numeric
+@attribute word_692 numeric
+@attribute word_693 numeric
+@attribute word_694 numeric
+@attribute word_695 numeric
+@attribute word_696 numeric
+@attribute word_697 numeric
+@attribute word_698 numeric
+@attribute word_699 numeric
+@attribute word_700 numeric
+@attribute word_701 numeric
+@attribute word_702 numeric
+@attribute word_703 numeric
+@attribute word_704 numeric
+@attribute word_705 numeric
+@attribute word_706 numeric
+@attribute word_707 numeric
+@attribute word_708 numeric
+@attribute word_709 numeric
+@attribute word_710 numeric
+@attribute word_711 numeric
+@attribute word_712 numeric
+@attribute word_713 numeric
+@attribute word_714 numeric
+@attribute word_715 numeric
+@attribute word_716 numeric
+@attribute word_717 numeric
+@attribute word_718 numeric
+@attribute word_719 numeric
+@attribute word_720 numeric
+@attribute word_721 numeric
+@attribute word_722 numeric
+@attribute word_723 numeric
+@attribute word_724 numeric
+@attribute word_725 numeric
+@attribute word_726 numeric
+@attribute word_727 numeric
+@attribute word_728 numeric
+@attribute word_729 numeric
+@attribute word_730 numeric
+@attribute word_731 numeric
+@attribute word_732 numeric
+@attribute word_733 numeric
+@attribute word_734 numeric
+@attribute word_735 numeric
+@attribute word_736 numeric
+@attribute word_737 numeric
+@attribute word_738 numeric
+@attribute word_739 numeric
+@attribute word_740 numeric
+@attribute word_741 numeric
+@attribute word_742 numeric
+@attribute word_743 numeric
+@attribute word_744 numeric
+@attribute word_745 numeric
+@attribute word_746 numeric
+@attribute word_747 numeric
+@attribute word_748 numeric
+@attribute word_749 numeric
+@attribute word_750 numeric
+@attribute word_751 numeric
+@attribute word_752 numeric
+@attribute word_753 numeric
+@attribute word_754 numeric
+@attribute word_755 numeric
+@attribute word_756 numeric
+@attribute word_757 numeric
+@attribute word_758 numeric
+@attribute word_759 numeric
+@attribute word_760 numeric
+@attribute word_761 numeric
+@attribute word_762 numeric
+@attribute word_763 numeric
+@attribute word_764 numeric
+@attribute word_765 numeric
+@attribute word_766 numeric
+@attribute word_767 numeric
+@attribute word_768 numeric
+@attribute word_769 numeric
+@attribute word_770 numeric
+@attribute word_771 numeric
+@attribute word_772 numeric
+@attribute word_773 numeric
+@attribute word_774 numeric
+@attribute word_775 numeric
+@attribute word_776 numeric
+@attribute word_777 numeric
+@attribute word_778 numeric
+@attribute word_779 numeric
+@attribute word_780 numeric
+@attribute word_781 numeric
+@attribute word_782 numeric
+@attribute word_783 numeric
+@attribute word_784 numeric
+@attribute word_785 numeric
+@attribute word_786 numeric
+@attribute word_787 numeric
+@attribute word_788 numeric
+@attribute word_789 numeric
+@attribute word_790 numeric
+@attribute word_791 numeric
+@attribute word_792 numeric
+@attribute word_793 numeric
+@attribute word_794 numeric
+@attribute word_795 numeric
+@attribute word_796 numeric
+@attribute word_797 numeric
+@attribute word_798 numeric
+@attribute word_799 numeric
+@attribute word_800 numeric
+@attribute word_801 numeric
+@attribute word_802 numeric
+@attribute word_803 numeric
+@attribute word_804 numeric
+@attribute word_805 numeric
+@attribute word_806 numeric
+@attribute word_807 numeric
+@attribute word_808 numeric
+@attribute word_809 numeric
+@attribute word_810 numeric
+@attribute word_811 numeric
+@attribute word_812 numeric
+@attribute word_813 numeric
+@attribute word_814 numeric
+@attribute word_815 numeric
+@attribute word_816 numeric
+@attribute word_817 numeric
+@attribute word_818 numeric
+@attribute word_819 numeric
+@attribute word_820 numeric
+@attribute word_821 numeric
+@attribute word_822 numeric
+@attribute word_823 numeric
+@attribute word_824 numeric
+@attribute word_825 numeric
+@attribute word_826 numeric
+@attribute word_827 numeric
+@attribute word_828 numeric
+@attribute word_829 numeric
+@attribute word_830 numeric
+@attribute word_831 numeric
+@attribute word_832 numeric
+@attribute word_833 numeric
+@attribute word_834 numeric
+@attribute word_835 numeric
+@attribute word_836 numeric
+@attribute word_837 numeric
+@attribute word_838 numeric
+@attribute word_839 numeric
+@attribute word_840 numeric
+@attribute word_841 numeric
+@attribute word_842 numeric
+@attribute word_843 numeric
+@attribute word_844 numeric
+@attribute word_845 numeric
+@attribute word_846 numeric
+@attribute word_847 numeric
+@attribute word_848 numeric
+@attribute word_849 numeric
+@attribute word_850 numeric
+@attribute word_851 numeric
+@attribute word_852 numeric
+@attribute word_853 numeric
+@attribute word_854 numeric
+@attribute word_855 numeric
+@attribute word_856 numeric
+@attribute word_857 numeric
+@attribute word_858 numeric
+@attribute word_859 numeric
+@attribute word_860 numeric
+@attribute word_861 numeric
+@attribute word_862 numeric
+@attribute word_863 numeric
+@attribute word_864 numeric
+@attribute word_865 numeric
+@attribute word_866 numeric
+@attribute word_867 numeric
+@attribute word_868 numeric
+@attribute word_869 numeric
+@attribute word_870 numeric
+@attribute word_871 numeric
+@attribute word_872 numeric
+@attribute word_873 numeric
+@attribute word_874 numeric
+@attribute word_875 numeric
+@attribute word_876 numeric
+@attribute word_877 numeric
+@attribute word_878 numeric
+@attribute word_879 numeric
+@attribute word_880 numeric
+@attribute word_881 numeric
+@attribute word_882 numeric
+@attribute word_883 numeric
+@attribute word_884 numeric
+@attribute word_885 numeric
+@attribute word_886 numeric
+@attribute word_887 numeric
+@attribute word_888 numeric
+@attribute word_889 numeric
+@attribute word_890 numeric
+@attribute word_891 numeric
+@attribute word_892 numeric
+@attribute word_893 numeric
+@attribute word_894 numeric
+@attribute word_895 numeric
+@attribute word_896 numeric
+@attribute word_897 numeric
+@attribute word_898 numeric
+@attribute word_899 numeric
+@attribute word_900 numeric
+@attribute word_901 numeric
+@attribute word_902 numeric
+@attribute word_903 numeric
+@attribute word_904 numeric
+@attribute word_905 numeric
+@attribute word_906 numeric
+@attribute word_907 numeric
+@attribute word_908 numeric
+@attribute word_909 numeric
+@attribute word_910 numeric
+@attribute word_911 numeric
+@attribute word_912 numeric
+@attribute word_913 numeric
+@attribute word_914 numeric
+@attribute word_915 numeric
+@attribute word_916 numeric
+@attribute word_917 numeric
+@attribute word_918 numeric
+@attribute word_919 numeric
+@attribute word_920 numeric
+@attribute word_921 numeric
+@attribute word_922 numeric
+@attribute word_923 numeric
+@attribute word_924 numeric
+@attribute word_925 numeric
+@attribute word_926 numeric
+@attribute word_927 numeric
+@attribute word_928 numeric
+@attribute word_929 numeric
+@attribute word_930 numeric
+@attribute word_931 numeric
+@attribute word_932 numeric
+@attribute word_933 numeric
+@attribute word_934 numeric
+@attribute word_935 numeric
+@attribute word_936 numeric
+@attribute word_937 numeric
+@attribute word_938 numeric
+@attribute word_939 numeric
+@attribute word_940 numeric
+@attribute word_941 numeric
+@attribute word_942 numeric
+@attribute word_943 numeric
+@attribute word_944 numeric
+@attribute word_945 numeric
+@attribute word_946 numeric
+@attribute word_947 numeric
+@attribute word_948 numeric
+@attribute word_949 numeric
+@attribute word_950 numeric
+@attribute word_951 numeric
+@attribute word_952 numeric
+@attribute word_953 numeric
+@attribute word_954 numeric
+@attribute word_955 numeric
+@attribute word_956 numeric
+@attribute word_957 numeric
+@attribute word_958 numeric
+@attribute word_959 numeric
+@attribute word_960 numeric
+@attribute word_961 numeric
+@attribute word_962 numeric
+@attribute word_963 numeric
+@attribute word_964 numeric
+@attribute word_965 numeric
+@attribute word_966 numeric
+@attribute word_967 numeric
+@attribute word_968 numeric
+@attribute word_969 numeric
+@attribute word_970 numeric
+@attribute word_971 numeric
+@attribute word_972 numeric
+@attribute word_973 numeric
+@attribute word_974 numeric
+@attribute word_975 numeric
+@attribute word_976 numeric
+@attribute word_977 numeric
+@attribute word_978 numeric
+@attribute word_979 numeric
+@attribute word_980 numeric
+@attribute word_981 numeric
+@attribute word_982 numeric
+@attribute word_983 numeric
+@attribute word_984 numeric
+@attribute word_985 numeric
+@attribute word_986 numeric
+@attribute word_987 numeric
+@attribute word_988 numeric
+@attribute word_989 numeric
+@attribute word_990 numeric
+@attribute word_991 numeric
+@attribute word_992 numeric
+@attribute word_993 numeric
+@attribute word_994 numeric
+@attribute word_995 numeric
+@attribute word_996 numeric
+@attribute word_997 numeric
+@attribute word_998 numeric
+@attribute word_999 numeric
+@attribute word_1000 numeric
+@attribute word_1001 numeric
+@attribute word_1002 numeric
+@attribute word_1003 numeric
+@attribute word_1004 numeric
+@attribute word_1005 numeric
+@attribute word_1006 numeric
+@attribute word_1007 numeric
+@attribute word_1008 numeric
+@attribute word_1009 numeric
+@attribute word_1010 numeric
+@attribute word_1011 numeric
+@attribute word_1012 numeric
+@attribute word_1013 numeric
+@attribute word_1014 numeric
+@attribute word_1015 numeric
+@attribute word_1016 numeric
+@attribute word_1017 numeric
+@attribute word_1018 numeric
+@attribute word_1019 numeric
+@attribute word_1020 numeric
+@attribute word_1021 numeric
+@attribute word_1022 numeric
+@attribute word_1023 numeric
+@attribute word_1024 numeric
+@attribute word_1025 numeric
+@attribute word_1026 numeric
+@attribute word_1027 numeric
+@attribute word_1028 numeric
+@attribute word_1029 numeric
+@attribute word_1030 numeric
+@attribute word_1031 numeric
+@attribute word_1032 numeric
+@attribute word_1033 numeric
+@attribute word_1034 numeric
+@attribute word_1035 numeric
+@attribute word_1036 numeric
+@attribute word_1037 numeric
+@attribute word_1038 numeric
+@attribute word_1039 numeric
+@attribute word_1040 numeric
+@attribute word_1041 numeric
+@attribute word_1042 numeric
+@attribute word_1043 numeric
+@attribute word_1044 numeric
+@attribute word_1045 numeric
+@attribute word_1046 numeric
+@attribute word_1047 numeric
+@attribute word_1048 numeric
+@attribute word_1049 numeric
+@attribute word_1050 numeric
+@attribute word_1051 numeric
+@attribute word_1052 numeric
+@attribute word_1053 numeric
+@attribute word_1054 numeric
+@attribute word_1055 numeric
+@attribute word_1056 numeric
+@attribute word_1057 numeric
+@attribute word_1058 numeric
+@attribute word_1059 numeric
+@attribute word_1060 numeric
+@attribute word_1061 numeric
+@attribute word_1062 numeric
+@attribute word_1063 numeric
+@attribute word_1064 numeric
+@attribute word_1065 numeric
+@attribute word_1066 numeric
+@attribute word_1067 numeric
+@attribute word_1068 numeric
+@attribute word_1069 numeric
+@attribute word_1070 numeric
+@attribute word_1071 numeric
+@attribute word_1072 numeric
+@attribute word_1073 numeric
+@attribute word_1074 numeric
+@attribute word_1075 numeric
+@attribute word_1076 numeric
+@attribute word_1077 numeric
+@attribute word_1078 numeric
+@attribute word_1079 numeric
+@attribute word_1080 numeric
+@attribute word_1081 numeric
+@attribute word_1082 numeric
+@attribute word_1083 numeric
+@attribute word_1084 numeric
+@attribute word_1085 numeric
+@attribute word_1086 numeric
+@attribute word_1087 numeric
+@attribute word_1088 numeric
+@attribute word_1089 numeric
+@attribute word_1090 numeric
+@attribute word_1091 numeric
+@attribute word_1092 numeric
+@attribute word_1093 numeric
+@attribute word_1094 numeric
+@attribute word_1095 numeric
+@attribute word_1096 numeric
+@attribute word_1097 numeric
+@attribute word_1098 numeric
+@attribute word_1099 numeric
+@attribute word_1100 numeric
+@attribute word_1101 numeric
+@attribute word_1102 numeric
+@attribute word_1103 numeric
+@attribute word_1104 numeric
+@attribute word_1105 numeric
+@attribute word_1106 numeric
+@attribute word_1107 numeric
+@attribute word_1108 numeric
+@attribute word_1109 numeric
+@attribute word_1110 numeric
+@attribute word_1111 numeric
+@attribute word_1112 numeric
+@attribute word_1113 numeric
+@attribute word_1114 numeric
+@attribute word_1115 numeric
+@attribute word_1116 numeric
+@attribute word_1117 numeric
+@attribute word_1118 numeric
+@attribute word_1119 numeric
+@attribute word_1120 numeric
+@attribute word_1121 numeric
+@attribute word_1122 numeric
+@attribute word_1123 numeric
+@attribute word_1124 numeric
+@attribute word_1125 numeric
+@attribute word_1126 numeric
+@attribute word_1127 numeric
+@attribute word_1128 numeric
+@attribute word_1129 numeric
+@attribute word_1130 numeric
+@attribute word_1131 numeric
+@attribute word_1132 numeric
+@attribute word_1133 numeric
+@attribute word_1134 numeric
+@attribute word_1135 numeric
+@attribute word_1136 numeric
+@attribute word_1137 numeric
+@attribute word_1138 numeric
+@attribute word_1139 numeric
+@attribute word_1140 numeric
+@attribute word_1141 numeric
+@attribute word_1142 numeric
+@attribute word_1143 numeric
+@attribute word_1144 numeric
+@attribute word_1145 numeric
+@attribute word_1146 numeric
+@attribute word_1147 numeric
+@attribute word_1148 numeric
+@attribute word_1149 numeric
+@attribute word_1150 numeric
+@attribute word_1151 numeric
+@attribute word_1152 numeric
+@attribute word_1153 numeric
+@attribute word_1154 numeric
+@attribute word_1155 numeric
+@attribute word_1156 numeric
+@attribute word_1157 numeric
+@attribute word_1158 numeric
+@attribute word_1159 numeric
+@attribute word_1160 numeric
+@attribute word_1161 numeric
+@attribute word_1162 numeric
+@attribute word_1163 numeric
+@attribute word_1164 numeric
+@attribute word_1165 numeric
+@attribute word_1166 numeric
+@attribute word_1167 numeric
+@attribute word_1168 numeric
+@attribute word_1169 numeric
+@attribute word_1170 numeric
+@attribute word_1171 numeric
+@attribute word_1172 numeric
+@attribute word_1173 numeric
+@attribute word_1174 numeric
+@attribute word_1175 numeric
+@attribute word_1176 numeric
+@attribute word_1177 numeric
+@attribute word_1178 numeric
+@attribute word_1179 numeric
+@attribute word_1180 numeric
+@attribute word_1181 numeric
+@attribute word_1182 numeric
+@attribute word_1183 numeric
+@attribute word_1184 numeric
+@attribute word_1185 numeric
+@attribute word_1186 numeric
+@attribute word_1187 numeric
+@attribute word_1188 numeric
+@attribute word_1189 numeric
+@attribute word_1190 numeric
+@attribute word_1191 numeric
+@attribute word_1192 numeric
+@attribute word_1193 numeric
+@attribute word_1194 numeric
+@attribute word_1195 numeric
+@attribute word_1196 numeric
+@attribute word_1197 numeric
+@attribute word_1198 numeric
+@attribute word_1199 numeric
+@attribute word_1200 numeric
+@attribute word_1201 numeric
+@attribute word_1202 numeric
+@attribute word_1203 numeric
+@attribute word_1204 numeric
+@attribute word_1205 numeric
+@attribute word_1206 numeric
+@attribute word_1207 numeric
+@attribute word_1208 numeric
+@attribute word_1209 numeric
+@attribute word_1210 numeric
+@attribute word_1211 numeric
+@attribute word_1212 numeric
+@attribute word_1213 numeric
+@attribute word_1214 numeric
+@attribute word_1215 numeric
+@attribute word_1216 numeric
+@attribute word_1217 numeric
+@attribute word_1218 numeric
+@attribute word_1219 numeric
+@attribute word_1220 numeric
+@attribute word_1221 numeric
+@attribute word_1222 numeric
+@attribute word_1223 numeric
+@attribute word_1224 numeric
+@attribute word_1225 numeric
+@attribute word_1226 numeric
+@attribute word_1227 numeric
+@attribute word_1228 numeric
+@attribute word_1229 numeric
+@attribute word_1230 numeric
+@attribute word_1231 numeric
+@attribute word_1232 numeric
+@attribute word_1233 numeric
+@attribute word_1234 numeric
+@attribute word_1235 numeric
+@attribute word_1236 numeric
+@attribute word_1237 numeric
+@attribute word_1238 numeric
+@attribute word_1239 numeric
+@attribute word_1240 numeric
+@attribute word_1241 numeric
+@attribute word_1242 numeric
+@attribute word_1243 numeric
+@attribute word_1244 numeric
+@attribute word_1245 numeric
+@attribute word_1246 numeric
+@attribute word_1247 numeric
+@attribute word_1248 numeric
+@attribute word_1249 numeric
+@attribute word_1250 numeric
+@attribute word_1251 numeric
+@attribute word_1252 numeric
+@attribute word_1253 numeric
+@attribute word_1254 numeric
+@attribute word_1255 numeric
+@attribute word_1256 numeric
+@attribute word_1257 numeric
+@attribute word_1258 numeric
+@attribute word_1259 numeric
+@attribute word_1260 numeric
+@attribute word_1261 numeric
+@attribute word_1262 numeric
+@attribute word_1263 numeric
+@attribute word_1264 numeric
+@attribute word_1265 numeric
+@attribute word_1266 numeric
+@attribute word_1267 numeric
+@attribute word_1268 numeric
+@attribute word_1269 numeric
+@attribute word_1270 numeric
+@attribute word_1271 numeric
+@attribute word_1272 numeric
+@attribute word_1273 numeric
+@attribute word_1274 numeric
+@attribute word_1275 numeric
+@attribute word_1276 numeric
+@attribute word_1277 numeric
+@attribute word_1278 numeric
+@attribute word_1279 numeric
+@attribute word_1280 numeric
+@attribute word_1281 numeric
+@attribute word_1282 numeric
+@attribute word_1283 numeric
+@attribute word_1284 numeric
+@attribute word_1285 numeric
+@attribute word_1286 numeric
+@attribute word_1287 numeric
+@attribute word_1288 numeric
+@attribute word_1289 numeric
+@attribute word_1290 numeric
+@attribute word_1291 numeric
+@attribute word_1292 numeric
+@attribute word_1293 numeric
+@attribute word_1294 numeric
+@attribute word_1295 numeric
+@attribute word_1296 numeric
+@attribute word_1297 numeric
+@attribute word_1298 numeric
+@attribute word_1299 numeric
+@attribute word_1300 numeric
+@attribute word_1301 numeric
+@attribute word_1302 numeric
+@attribute word_1303 numeric
+@attribute word_1304 numeric
+@attribute word_1305 numeric
+@attribute word_1306 numeric
+@attribute word_1307 numeric
+@attribute word_1308 numeric
+@attribute word_1309 numeric
+@attribute word_1310 numeric
+@attribute word_1311 numeric
+@attribute word_1312 numeric
+@attribute word_1313 numeric
+@attribute word_1314 numeric
+@attribute word_1315 numeric
+@attribute word_1316 numeric
+@attribute word_1317 numeric
+@attribute word_1318 numeric
+@attribute word_1319 numeric
+@attribute word_1320 numeric
+@attribute word_1321 numeric
+@attribute word_1322 numeric
+@attribute word_1323 numeric
+@attribute word_1324 numeric
+@attribute word_1325 numeric
+@attribute word_1326 numeric
+@attribute word_1327 numeric
+@attribute word_1328 numeric
+@attribute word_1329 numeric
+@attribute word_1330 numeric
+@attribute word_1331 numeric
+@attribute word_1332 numeric
+@attribute word_1333 numeric
+@attribute word_1334 numeric
+@attribute word_1335 numeric
+@attribute word_1336 numeric
+@attribute word_1337 numeric
+@attribute word_1338 numeric
+@attribute word_1339 numeric
+@attribute word_1340 numeric
+@attribute word_1341 numeric
+@attribute word_1342 numeric
+@attribute word_1343 numeric
+@attribute word_1344 numeric
+@attribute word_1345 numeric
+@attribute word_1346 numeric
+@attribute word_1347 numeric
+@attribute word_1348 numeric
+@attribute word_1349 numeric
+@attribute word_1350 numeric
+@attribute word_1351 numeric
+@attribute word_1352 numeric
+@attribute word_1353 numeric
+@attribute word_1354 numeric
+@attribute word_1355 numeric
+@attribute word_1356 numeric
+@attribute word_1357 numeric
+@attribute word_1358 numeric
+@attribute word_1359 numeric
+@attribute word_1360 numeric
+@attribute word_1361 numeric
+@attribute word_1362 numeric
+@attribute word_1363 numeric
+@attribute word_1364 numeric
+@attribute word_1365 numeric
+@attribute word_1366 numeric
+@attribute word_1367 numeric
+@attribute word_1368 numeric
+@attribute word_1369 numeric
+@attribute word_1370 numeric
+@attribute word_1371 numeric
+@attribute word_1372 numeric
+@attribute word_1373 numeric
+@attribute word_1374 numeric
+@attribute word_1375 numeric
+@attribute word_1376 numeric
+@attribute word_1377 numeric
+@attribute word_1378 numeric
+@attribute word_1379 numeric
+@attribute word_1380 numeric
+@attribute word_1381 numeric
+@attribute word_1382 numeric
+@attribute word_1383 numeric
+@attribute word_1384 numeric
+@attribute word_1385 numeric
+@attribute word_1386 numeric
+@attribute word_1387 numeric
+@attribute word_1388 numeric
+@attribute word_1389 numeric
+@attribute word_1390 numeric
+@attribute word_1391 numeric
+@attribute word_1392 numeric
+@attribute word_1393 numeric
+@attribute word_1394 numeric
+@attribute word_1395 numeric
+@attribute word_1396 numeric
+@attribute word_1397 numeric
+@attribute word_1398 numeric
+@attribute word_1399 numeric
+@attribute word_1400 numeric
+@attribute word_1401 numeric
+@attribute word_1402 numeric
+@attribute word_1403 numeric
+@attribute word_1404 numeric
+@attribute word_1405 numeric
+@attribute word_1406 numeric
+@attribute word_1407 numeric
+@attribute word_1408 numeric
+@attribute word_1409 numeric
+@attribute word_1410 numeric
+@attribute word_1411 numeric
+@attribute word_1412 numeric
+@attribute word_1413 numeric
+@attribute word_1414 numeric
+@attribute word_1415 numeric
+@attribute word_1416 numeric
+@attribute word_1417 numeric
+@attribute word_1418 numeric
+@attribute word_1419 numeric
+@attribute word_1420 numeric
+@attribute word_1421 numeric
+@attribute word_1422 numeric
+@attribute word_1423 numeric
+@attribute word_1424 numeric
+@attribute word_1425 numeric
+@attribute word_1426 numeric
+@attribute word_1427 numeric
+@attribute word_1428 numeric
+@attribute word_1429 numeric
+@attribute word_1430 numeric
+@attribute word_1431 numeric
+@attribute word_1432 numeric
+@attribute word_1433 numeric
+@attribute word_1434 numeric
+@attribute word_1435 numeric
+@attribute word_1436 numeric
+@attribute word_1437 numeric
+@attribute word_1438 numeric
+@attribute word_1439 numeric
+@attribute word_1440 numeric
+@attribute word_1441 numeric
+@attribute word_1442 numeric
+@attribute word_1443 numeric
+@attribute word_1444 numeric
+@attribute word_1445 numeric
+@attribute word_1446 numeric
+@attribute word_1447 numeric
+@attribute word_1448 numeric
+@attribute word_1449 numeric
+@attribute word_1450 numeric
+@attribute word_1451 numeric
+@attribute word_1452 numeric
+@attribute word_1453 numeric
+@attribute word_1454 numeric
+@attribute word_1455 numeric
+@attribute word_1456 numeric
+@attribute word_1457 numeric
+@attribute word_1458 numeric
+@attribute word_1459 numeric
+@attribute word_1460 numeric
+@attribute word_1461 numeric
+@attribute word_1462 numeric
+@attribute word_1463 numeric
+@attribute word_1464 numeric
+@attribute word_1465 numeric
+@attribute word_1466 numeric
+@attribute word_1467 numeric
+@attribute word_1468 numeric
+@attribute word_1469 numeric
+@attribute word_1470 numeric
+@attribute word_1471 numeric
+@attribute word_1472 numeric
+@attribute word_1473 numeric
+@attribute word_1474 numeric
+@attribute word_1475 numeric
+@attribute word_1476 numeric
+@attribute word_1477 numeric
+@attribute word_1478 numeric
+@attribute word_1479 numeric
+@attribute word_1480 numeric
+@attribute word_1481 numeric
+@attribute word_1482 numeric
+@attribute word_1483 numeric
+@attribute word_1484 numeric
+@attribute word_1485 numeric
+@attribute word_1486 numeric
+@attribute word_1487 numeric
+@attribute word_1488 numeric
+@attribute word_1489 numeric
+@attribute word_1490 numeric
+@attribute word_1491 numeric
+@attribute word_1492 numeric
+@attribute word_1493 numeric
+@attribute word_1494 numeric
+@attribute word_1495 numeric
+@attribute word_1496 numeric
+@attribute word_1497 numeric
+@attribute word_1498 numeric
+@attribute word_1499 numeric
+@attribute word_1500 numeric
+@attribute word_1501 numeric
+@attribute word_1502 numeric
+@attribute word_1503 numeric
+@attribute word_1504 numeric
+@attribute word_1505 numeric
+@attribute word_1506 numeric
+@attribute word_1507 numeric
+@attribute word_1508 numeric
+@attribute word_1509 numeric
+@attribute word_1510 numeric
+@attribute word_1511 numeric
+@attribute word_1512 numeric
+@attribute word_1513 numeric
+@attribute word_1514 numeric
+@attribute word_1515 numeric
+@attribute word_1516 numeric
+@attribute word_1517 numeric
+@attribute word_1518 numeric
+@attribute word_1519 numeric
+@attribute word_1520 numeric
+@attribute word_1521 numeric
+@attribute word_1522 numeric
+@attribute word_1523 numeric
+@attribute word_1524 numeric
+@attribute word_1525 numeric
+@attribute word_1526 numeric
+@attribute word_1527 numeric
+@attribute word_1528 numeric
+@attribute word_1529 numeric
+@attribute word_1530 numeric
+@attribute word_1531 numeric
+@attribute word_1532 numeric
+@attribute word_1533 numeric
+@attribute word_1534 numeric
+@attribute word_1535 numeric
+@attribute word_1536 numeric
+@attribute word_1537 numeric
+@attribute word_1538 numeric
+@attribute word_1539 numeric
+@attribute word_1540 numeric
+@attribute word_1541 numeric
+@attribute word_1542 numeric
+@attribute word_1543 numeric
+@attribute word_1544 numeric
+@attribute word_1545 numeric
+@attribute word_1546 numeric
+@attribute word_1547 numeric
+@attribute word_1548 numeric
+@attribute word_1549 numeric
+@attribute word_1550 numeric
+@attribute word_1551 numeric
+@attribute word_1552 numeric
+@attribute word_1553 numeric
+@attribute word_1554 numeric
+@attribute word_1555 numeric
+@attribute word_1556 numeric
+@attribute word_1557 numeric
+@attribute word_1558 numeric
+@attribute word_1559 numeric
+@attribute word_1560 numeric
+@attribute word_1561 numeric
+@attribute word_1562 numeric
+@attribute word_1563 numeric
+@attribute word_1564 numeric
+@attribute word_1565 numeric
+@attribute word_1566 numeric
+@attribute word_1567 numeric
+@attribute word_1568 numeric
+@attribute word_1569 numeric
+@attribute word_1570 numeric
+@attribute word_1571 numeric
+@attribute word_1572 numeric
+@attribute word_1573 numeric
+@attribute word_1574 numeric
+@attribute word_1575 numeric
+@attribute word_1576 numeric
+@attribute word_1577 numeric
+@attribute word_1578 numeric
+@attribute word_1579 numeric
+@attribute word_1580 numeric
+@attribute word_1581 numeric
+@attribute word_1582 numeric
+@attribute word_1583 numeric
+@attribute word_1584 numeric
+@attribute word_1585 numeric
+@attribute word_1586 numeric
+@attribute word_1587 numeric
+@attribute word_1588 numeric
+@attribute word_1589 numeric
+@attribute word_1590 numeric
+@attribute word_1591 numeric
+@attribute word_1592 numeric
+@attribute word_1593 numeric
+@attribute word_1594 numeric
+@attribute word_1595 numeric
+@attribute word_1596 numeric
+@attribute word_1597 numeric
+@attribute word_1598 numeric
+@attribute word_1599 numeric
+@attribute word_1600 numeric
+@attribute word_1601 numeric
+@attribute word_1602 numeric
+@attribute word_1603 numeric
+@attribute word_1604 numeric
+@attribute word_1605 numeric
+@attribute word_1606 numeric
+@attribute word_1607 numeric
+@attribute word_1608 numeric
+@attribute word_1609 numeric
+@attribute word_1610 numeric
+@attribute word_1611 numeric
+@attribute word_1612 numeric
+@attribute word_1613 numeric
+@attribute word_1614 numeric
+@attribute word_1615 numeric
+@attribute word_1616 numeric
+@attribute word_1617 numeric
+@attribute word_1618 numeric
+@attribute word_1619 numeric
+@attribute word_1620 numeric
+@attribute word_1621 numeric
+@attribute word_1622 numeric
+@attribute word_1623 numeric
+@attribute word_1624 numeric
+@attribute word_1625 numeric
+@attribute word_1626 numeric
+@attribute word_1627 numeric
+@attribute word_1628 numeric
+@attribute word_1629 numeric
+@attribute word_1630 numeric
+@attribute word_1631 numeric
+@attribute word_1632 numeric
+@attribute word_1633 numeric
+@attribute word_1634 numeric
+@attribute word_1635 numeric
+@attribute word_1636 numeric
+@attribute word_1637 numeric
+@attribute word_1638 numeric
+@attribute word_1639 numeric
+@attribute word_1640 numeric
+@attribute word_1641 numeric
+@attribute word_1642 numeric
+@attribute word_1643 numeric
+@attribute word_1644 numeric
+@attribute word_1645 numeric
+@attribute word_1646 numeric
+@attribute word_1647 numeric
+@attribute word_1648 numeric
+@attribute word_1649 numeric
+@attribute word_1650 numeric
+@attribute word_1651 numeric
+@attribute word_1652 numeric
+@attribute word_1653 numeric
+@attribute word_1654 numeric
+@attribute word_1655 numeric
+@attribute word_1656 numeric
+@attribute word_1657 numeric
+@attribute word_1658 numeric
+@attribute word_1659 numeric
+@attribute word_1660 numeric
+@attribute word_1661 numeric
+@attribute word_1662 numeric
+@attribute word_1663 numeric
+@attribute word_1664 numeric
+@attribute word_1665 numeric
+@attribute word_1666 numeric
+@attribute word_1667 numeric
+@attribute word_1668 numeric
+@attribute word_1669 numeric
+@attribute word_1670 numeric
+@attribute word_1671 numeric
+@attribute word_1672 numeric
+@attribute word_1673 numeric
+@attribute word_1674 numeric
+@attribute word_1675 numeric
+@attribute word_1676 numeric
+@attribute word_1677 numeric
+@attribute word_1678 numeric
+@attribute word_1679 numeric
+@attribute word_1680 numeric
+@attribute word_1681 numeric
+@attribute word_1682 numeric
+@attribute word_1683 numeric
+@attribute word_1684 numeric
+@attribute word_1685 numeric
+@attribute word_1686 numeric
+@attribute word_1687 numeric
+@attribute word_1688 numeric
+@attribute word_1689 numeric
+@attribute word_1690 numeric
+@attribute word_1691 numeric
+@attribute word_1692 numeric
+@attribute word_1693 numeric
+@attribute word_1694 numeric
+@attribute word_1695 numeric
+@attribute word_1696 numeric
+@attribute word_1697 numeric
+@attribute word_1698 numeric
+@attribute word_1699 numeric
+@attribute word_1700 numeric
+@attribute word_1701 numeric
+@attribute word_1702 numeric
+@attribute word_1703 numeric
+@attribute word_1704 numeric
+@attribute word_1705 numeric
+@attribute word_1706 numeric
+@attribute word_1707 numeric
+@attribute word_1708 numeric
+@attribute word_1709 numeric
+@attribute word_1710 numeric
+@attribute word_1711 numeric
+@attribute word_1712 numeric
+@attribute word_1713 numeric
+@attribute word_1714 numeric
+@attribute word_1715 numeric
+@attribute word_1716 numeric
+@attribute word_1717 numeric
+@attribute word_1718 numeric
+@attribute word_1719 numeric
+@attribute word_1720 numeric
+@attribute word_1721 numeric
+@attribute word_1722 numeric
+@attribute word_1723 numeric
+@attribute word_1724 numeric
+@attribute word_1725 numeric
+@attribute word_1726 numeric
+@attribute word_1727 numeric
+@attribute word_1728 numeric
+@attribute word_1729 numeric
+@attribute word_1730 numeric
+@attribute word_1731 numeric
+@attribute word_1732 numeric
+@attribute word_1733 numeric
+@attribute word_1734 numeric
+@attribute word_1735 numeric
+@attribute word_1736 numeric
+@attribute word_1737 numeric
+@attribute word_1738 numeric
+@attribute word_1739 numeric
+@attribute word_1740 numeric
+@attribute word_1741 numeric
+@attribute word_1742 numeric
+@attribute word_1743 numeric
+@attribute word_1744 numeric
+@attribute word_1745 numeric
+@attribute word_1746 numeric
+@attribute word_1747 numeric
+@attribute word_1748 numeric
+@attribute word_1749 numeric
+@attribute label_1 {0,1}
+@attribute label_2 {0,1}
+@attribute label_3 {0,1}
+@attribute label_4 {0,1}
+@attribute label_5 {0,1}
+@attribute label_6 {0,1}
+@attribute label_7 {0,1}
+@attribute label_8 {0,1}
+@attribute label_9 {0,1}
+@attribute label_10 {0,1}
+
+@data
+{1 1,7 1,8 1,12 1,195 1,375 1,444 1,1751 1,1753 1}
+{1 1,3 1,6 1,26 1,30 1,42 1,73 1,91 1,147 1,247 1,340 1,925 1,1025 1,1045 1,1165 1,1513 1,1751 1,1753 1,1754 1}
+{0 1,1 1,3 1,20 1,55 1,60 1,62 1,65 1,94 1,138 1,154 1,187 1,198 1,302 1,1753 1}
+{0 1,2 1,3 1,7 1,9 1,15 1,18 1,64 1,1751 1,1753 1}
+{1 1,4 1,5 1,23 1,144 1,167 1,491 1,506 1,1753 1,1759 1}
+{2 1,4 1,10 1,15 1,54 1,217 1,1438 1,1751 1,1755 1}
+{51 1,213 1,231 1,590 1,1754 1}
+{2 1,5 1,6 1,1751 1}
+{2 1,15 1,22 1,303 1,491 1,506 1,1560 1,1751 1,1759 1}
+{3 1,55 1,453 1,1753 1}
+{23 1,65 1,77 1,110 1,128 1,140 1,569 1,1166 1,1753 1}
+{4 1,6 1,11 1,25 1,105 1,145 1,168 1,179 1,718 1,1755 1}
+{2 1,6 1,25 1,145 1,181 1,282 1,285 1,339 1,398 1,500 1,601 1,647 1,664 1,1657 1,1751 1}
+{7 1,18 1,20 1,31 1,48 1,257 1,466 1,1644 1,1663 1,1751 1}
+{0 1,11 1,20 1,24 1,25 1,70 1,115 1,243 1,251 1,287 1,419 1,431 1,475 1,485 1,728 1,801 1,1120 2,1469 1,1560 1,1682 1,1717 1,1757 1}
+{1 1,2 1,5 1,7 1,15 1,62 1,226 1,264 1,446 1,590 1,985 1,1750 1,1752 1}
+{62 1,65 1,167 1,875 1,1123 1,1753 1}
+{5 1,6 1,1751 1}
+{10 1,51 1,1755 1}
+{603 1,921 1,1758 1}
+{262 1,428 1,689 1,910 1,1758 1}
+{4 1,6 1,65 1,110 1,276 1,1751 1,1759 1}
+{10 1,105 1,168 1,1755 1}
+{1 1,55 2,58 1,60 1,75 1,77 1,99 1,110 1,128 1,140 1,158 1,184 1,275 1,326 1,403 1,841 1,870 1,1185 1,1468 1,1753 1}
+{10 1,51 1,75 1,1755 1}
+{2 1,3 1,15 1,23 1,36 1,1751 1}
+{4 1,7 1,65 1,73 1,99 1,103 1,147 1,1751 1,1759 1}
+{2 1,5 1,6 1,90 1,1751 1}
+{1 1,2 1,3 1,4 1,6 1,9 1,23 1,35 1,36 1,81 1,141 1,148 1,182 1,290 1,1751 1,1753 1}
+{4 1,54 1,105 1,176 1,285 1,1200 1,1755 1}
+{7 1,112 1,281 1,1757 1}
+{3 1,4 1,16 1,27 1,113 1,465 1,1752 1,1753 1}
+{1 1,229 1,305 1,1288 1,1758 1}
+{2 1,3 1,15 1,20 1,44 1,75 1,265 1,1751 1,1753 1}
+{0 1,1 1,2 1,6 1,7 1,18 1,47 1,90 1,104 1,107 1,207 1,225 1,375 1,1751 1,1753 1}
+{2 1,3 1,5 1,7 1,118 1,375 1,1751 1,1753 1}
+{11 1,37 1,144 1,210 1,473 1,557 1,1753 1}
+{2 1,4 1,5 1,7 1,15 1,63 1,1751 1}
+{2 1,7 1,11 1,14 1,56 1,73 1,147 1,306 1,513 1,901 1,1576 1,1750 1}
+{305 1,318 1,1288 1,1567 1,1758 1}
+{1 1,97 1,110 1,148 1,212 1,599 1,1750 1}
+{10 1,30 1,1754 1}
+{1 1,5 1,6 1,99 1,1751 1,1753 1}
+{34 1,42 1,54 1,463 1,1754 1}
+{2 1,5 1,6 1,11 1,398 1,1751 1}
+{51 1,112 1,643 1,1431 1,1755 1,1757 1}
+{4 1,73 1,121 1,147 1,531 1,1205 1,1754 1}
+{2 1,4 1,5 1,6 1,14 2,17 2,23 1,28 1,58 1,1751 1}
+{0 1,2 1,6 1,8 1,12 1,15 1,22 1,47 1,90 1,165 1,1751 1}
+{2 1,9 1,15 1,1751 1}
+{2 1,9 1,15 1,81 1,182 1,274 1,386 1,580 1,805 1,1751 1}
+{3 1,4 1,99 1,109 1,160 1,441 1,1753 1,1759 1}
+{1 1,55 1,58 1,60 1,158 1,184 1,187 1,198 1,326 1,329 1,1753 1}
+{1 1,2 1,6 1,156 1,165 1,291 1,296 1,324 1,364 1,416 1,764 1,1010 1,1148 1,1751 1}
+{0 1,1 1,2 1,3 1,5 1,6 1,9 1,15 1,62 1,65 1,294 1,1751 1,1753 1,1755 1}
+{2 1,5 1,6 1,90 1,1314 1,1751 1}
+{2 1,9 1,15 1,1751 1}
+{2 1,3 1,9 1,63 1,594 1,1072 1,1751 1,1753 1}
+{1 1,55 1,99 1,275 1,1753 1}
+{1 1,3 1,19 1,53 1,59 1,1752 1}
+{0 1,5 1,6 2,10 1,51 1,1750 1,1751 1,1755 1}
+{0 1,1 1,2 1,3 2,9 1,23 1,151 1,153 1,1751 1,1753 1}
+{1 1,3 1,8 1,25 1,30 1,65 1,99 1,109 1,110 1,131 1,227 1,276 1,301 1,393 1,452 1,606 1,801 1,856 1,1300 1,1753 1,1759 1}
+{10 1,25 1,54 1,72 1,76 1,99 1,486 1,643 1,1755 1}
+{0 1,2 1,9 1,151 1,153 1,1751 1}
+{11 1,20 1,34 2,74 1,108 2,121 2,142 1,168 1,518 1,1051 1,1182 1,1703 1,1754 1}
+{1 1,5 1,7 2,20 1,48 1,161 1,171 1,409 1,1751 1}
+{1 1,3 1,20 1,55 1,109 1,1759 1}
+{0 2,1 1,3 1,10 1,39 1,51 1,69 1,102 1,151 1,153 1,423 1,654 1,682 1,716 1,1158 1,1353 1,1753 1,1754 1,1756 1}
+{1 1,58 1,161 1,1753 1}
+{0 1,4 1,30 1,40 1,70 1,73 1,230 1,458 1,649 1,1284 1,1756 1}
+{2 1,15 1,16 1,63 1,146 1,229 1,619 1,1751 1}
+{0 2,2 1,3 1,25 1,26 1,37 1,56 1,151 1,153 1,207 1,221 1,296 1,320 1,507 1,1751 1,1753 1}
+{4 1,25 1,30 1,39 1,309 1,795 1,1755 1,1756 1}
+{2 1,9 1,63 1,100 1,592 1,1751 1}
+{54 1,1755 1}
+{10 1,25 1,47 1,72 1,112 1,1755 1,1756 1}
+{1 1,3 1,58 1,158 1,275 1,279 1,1751 1}
+{10 1,30 1,366 1,1755 1}
+{26 1,39 1,75 1,1757 1}
+{0 1,1 1,26 1,31 1,107 1,151 1,153 1,178 1,237 1,318 1,1511 1,1758 1}
+{1 1,10 1,16 1,42 1,58 1,61 1,105 1,109 1,117 1,140 1,158 1,168 1,446 1,851 1,1753 1,1754 1}
+{0 1,3 1,14 1,17 1,77 1,92 1,151 1,153 1,360 1,1177 1,1753 1}
+{1 2,3 1,58 1,65 1,110 1,167 1,216 1,1170 1,1753 1,1759 1}
+{2 1,6 1,36 1,219 1,1751 1}
+{10 1,30 1,53 1,77 1,121 1,1754 1}
+{0 1,3 1,5 1,7 1,79 1,91 1,528 1,1751 1}
+{25 1,30 1,39 1,1756 1}
+{1 1,3 1,5 2,10 1,20 1,47 1,48 1,54 1,178 1,1753 1,1755 1,1759 1}
+{0 1,12 1,25 1,89 1,230 1,257 1,1756 1}
+{65 1,301 1,1759 1}
+{0 1,2 1,9 1,11 1,179 1,290 1,418 1,1751 1}
+{4 1,25 1,30 1,34 2,35 1,51 1,153 1,293 1,350 1,439 1,838 1,1546 1,1720 1,1754 1}
+{10 1,30 1,1755 1}
+{0 1,3 1,151 1,153 1,1753 1}
+{1 1,23 1,62 1,167 1,1753 1}
+{2 1,15 1,1751 1}
+{4 1,79 1,240 1,640 1,1754 1}
+{30 1,39 1,42 1,105 1,306 1,721 1,1754 1,1756 1}
+{0 1,5 1,6 1,25 1,39 1,40 1,82 1,101 1,151 1,153 1,181 1,454 1,1751 1,1753 1,1757 1}
+{1 1,3 1,20 1,55 1,381 1,527 1,1753 1}
+{10 1,51 1,1755 1}
+{2 1,9 1,207 1,1751 1}
+{0 1,2 1,9 1,10 1,37 1,42 1,51 1,71 1,82 1,151 1,153 1,210 1,233 1,449 1,516 1,738 1,1040 1,1751 1,1753 1,1754 1,1755 1}
+{0 1,3 1,5 1,7 2,37 1,48 1,66 1,77 1,82 1,109 1,151 1,153 1,171 1,250 1,356 1,482 1,587 1,649 1,838 1,1348 1,1751 1,1753 1,1756 1}
+{0 1,4 1,5 1,25 1,40 1,48 1,66 1,70 1,82 1,111 1,151 1,153 1,187 1,230 1,480 1,1167 1,1756 1}
+{2 1,5 1,6 1,509 1,1360 1,1751 1}
+{39 1,47 1,101 1,1757 1}
+{0 1,5 1,6 1,36 1,47 1,82 1,151 1,153 1,290 1,1751 1}
+{1 1,3 1,6 1,26 1,1751 1,1753 1}
+{16 1,152 1,1754 1}
+{16 1,25 1,39 1,42 1,114 1,1754 1,1756 1}
+{0 1,3 1,158 1,1753 1}
+{1 1,140 1,301 1,1759 1}
+{10 1,117 1,230 1,978 1,1754 1,1756 1}
+{35 1,40 1,486 1,1755 1}
+{1 1,2 1,3 1,9 1,31 1,63 1,65 1,92 1,1056 1,1751 1,1753 1}
+{1 1,3 2,14 3,17 3,37 1,58 1,62 1,140 1,145 1,283 1,1440 1,1692 1,1753 1}
+{0 1,3 1,151 1,153 1,1753 1}
+{0 1,3 1,14 1,17 1,61 1,77 1,109 1,138 1,140 1,154 1,275 1,302 1,1753 1,1759 1}
+{2 1,15 1,22 1,61 1,63 1,286 1,639 1,700 1,1751 1}
+{0 1,10 1,30 1,73 1,112 1,1755 1,1757 1}
+{30 1,53 1,213 1,468 1,1754 1}
+{3 1,4 1,24 1,56 1,92 1,1753 1}
+{5 1,7 1,75 1,137 1,744 1,766 1,1751 1,1753 1}
+{1 1,3 1,59 1,62 1,1753 1}
+{65 1,99 1,109 1,1759 1}
+{2 1,118 1,165 1,1751 1}
+{10 1,76 1,1755 1}
+{3 1,37 1,59 1,65 1,1753 1}
+{2 1,6 1,9 1,15 1,1751 1}
+{0 1,1 1,44 1,60 1,99 1,1123 1,1753 1}
+{7 2,11 1,36 1,178 1,253 1,356 1,482 1,1622 1,1751 1}
+{2 2,9 1,11 1,63 1,357 1,1751 1}
+{1 1,49 1,55 1,60 1,65 1,77 1,99 1,109 1,272 1,1753 1,1759 1}
+{7 1,36 1,303 1,1751 1}
+{1 1,3 1,37 1,41 1,59 1,62 1,99 1,1753 1}
+{2 1,6 1,10 1,15 1,36 1,76 1,412 1,1751 1,1755 1}
+{0 1,3 1,10 1,51 1,60 1,70 1,80 1,126 1,133 1,277 1,433 1,1753 1,1754 1,1757 1,1758 1}
+{2 1,6 1,15 1,146 1,1751 1}
+{0 1,3 1,80 1,277 1,1753 1}
+{10 1,25 1,30 1,176 1,1755 1}
+{0 1,23 1,44 1,80 1,158 1,277 1,326 1,1753 1}
+{0 1,23 1,34 1,42 1,54 1,80 1,277 1,1753 1,1754 1}
+{0 2,5 1,7 1,47 1,55 1,80 1,171 1,277 1,888 1,1751 1}
+{0 1,2 1,3 1,48 1,49 1,54 1,70 1,80 1,136 1,146 1,277 1,367 1,485 1,550 1,1751 1,1753 1,1755 1,1757 1}
+{0 1,30 1,80 1,277 1,379 1,1754 1}
+{0 1,3 3,14 1,17 1,23 1,27 1,37 1,41 1,80 1,99 1,277 1,1753 1}
+{0 1,47 1,70 1,115 1,163 1,259 2,436 1,480 1,619 1,776 1,1133 1,1303 1,1325 1,1757 1}
+{2 1,11 1,12 1,15 1,19 2,81 1,141 1,146 1,207 1,226 2,251 1,367 1,624 1,786 1,850 1,951 2,1077 1,1434 1,1642 1,1750 1}
+{0 1,2 1,15 1,36 1,80 1,277 1,1751 1}
+{0 1,3 1,58 1,60 1,70 1,80 1,111 1,199 1,277 1,328 1,1126 1,1757 1}
+{1 1,3 1,109 1,140 1,601 1,1753 1}
+{0 1,2 1,7 1,11 2,29 1,77 1,95 1,165 1,212 1,295 1,355 1,401 1,825 1,1096 1,1746 1,1751 1}
+{6 1,10 1,47 1,53 1,105 1,174 1,238 1,701 1,1754 1}
+{0 1,3 3,14 1,17 1,27 1,37 1,41 1,80 1,277 1,400 1,1753 1}
+{2 1,6 1,11 1,12 1,22 1,207 1,1750 1}
+{0 1,2 1,11 1,80 1,277 1,1556 1,1750 1}
+{2 1,6 1,7 1,12 1,15 1,36 1,47 1,68 1,78 1,90 1,1751 1}
+{47 1,108 1,112 1,117 1,947 1,1086 1,1200 1,1755 1,1757 1}
+{3 1,4 1,5 1,154 1,158 1,1753 1}
+{1 2,3 1,4 1,126 1,146 1,154 1,185 1,197 1,363 1,599 1,1191 1,1753 1,1758 1}
+{5 1,70 1,1757 1}
+{1 1,3 1,23 1,62 1,167 1,1753 1}
+{2 1,15 1,196 1,1751 1}
+{30 1,34 1,42 1,54 1,72 1,347 1,652 1,928 1,1050 1,1754 1,1755 1}
+{0 1,1 1,2 1,3 1,5 1,59 1,80 1,118 1,277 1,1555 1,1751 1,1753 1}
+{5 1,123 1,306 1,1750 1}
+{1 1,19 1,39 1,80 1,85 1,101 1,1757 1}
+{1 1,3 1,1751 1}
+{2 1,9 1,286 1,700 1,1164 1,1646 1,1751 1}
+{0 1,5 1,39 1,85 1,1757 1}
+{1 1,3 1,110 1,253 1,1753 1}
+{1 2,2 1,3 1,5 1,9 1,39 1,49 1,54 1,1751 1,1753 1,1755 1,1757 1}
+{1 1,2 1,5 1,36 1,47 1,289 1,1751 1,1753 1}
+{0 1,6 1,36 1,37 1,70 1,140 1,225 1,1751 1,1753 1,1757 1}
+{2 1,15 1,64 1,93 1,116 1,166 1,822 1,1594 1,1750 1,1751 1}
+{16 1,37 1,55 1,116 1,221 1,1753 1,1758 1}
+{1 1,3 1,5 1,7 1,62 1,113 1,1751 1,1753 1}
+{5 1,6 2,36 1,90 1,219 1,592 1,1751 1}
+{2 1,5 1,7 1,9 1,20 1,26 1,31 1,100 1,1751 1}
+{2 1,6 1,9 1,36 1,93 1,739 1,1751 1,1754 1}
+{0 1,1 1,2 1,3 1,6 1,15 1,24 1,123 1,137 1,227 1,1419 1,1751 1,1753 1}
+{1 1,16 1,65 1,97 1,174 1,178 1,297 1,318 1,616 1,810 1,824 1,912 1,1291 1,1758 1}
+{1 1,69 1,97 1,110 1,262 1,291 1,921 1,1753 1}
+{1 1,27 1,178 1,1752 1,1758 1}
+{4 1,70 1,161 1,312 1,573 1,1722 1,1756 1}
+{2 1,9 1,10 1,30 1,63 1,100 1,101 1,112 1,161 1,176 1,1751 1,1755 1,1757 1}
+{23 1,37 1,1753 1}
+{0 1,5 1,6 1,23 1,60 1,206 1,285 1,431 1,1098 1,1700 1,1751 1,1755 1}
+{1 1,27 1,178 1,603 1,1752 1,1758 1}
+{0 1,1 1,23 1,44 1,60 1,86 1,574 1,1753 1}
+{1 1,30 1,146 1,178 1,188 1,213 1,301 1,318 1,1333 1,1595 1,1755 1,1758 1}
+{0 1,1 1,3 1,24 1,44 1,86 1,363 1,371 1,481 1,574 1,932 1,980 1,1412 1,1758 1}
+{0 1,37 1,86 1,108 1,574 1,1380 1,1752 1}
+{0 2,1 1,3 1,12 1,23 1,574 1,1753 1}
+{3 1,4 1,23 1,59 1,1751 1,1753 1,1754 1}
+{1 1,59 1,129 1,258 1,516 1,1751 1,1753 1,1755 1,1756 1}
+{7 1,101 1,112 1,1751 1}
+{1 1,3 1,23 1,1750 1,1753 1,1756 1,1757 1,1758 1}
+{14 1,17 1,1752 1,1753 1,1755 1}
+{1 1,108 1,154 1,209 1,1753 1,1754 1}
+{2 1,6 1,22 1,1750 1,1751 1}
+{2 1,5 1,6 1,11 2,14 1,17 1,53 1,76 1,90 1,97 1,101 1,222 1,1750 1,1754 1}
+{69 1,283 1,540 1,1163 1,1280 1,1325 1,1552 1,1751 1}
+{69 1,97 1,1163 1,1339 1,1554 1,1666 1,1724 1,1752 1}
+{12 1,26 1,76 1,294 1,574 1,1755 1}
+{875 1,1344 1,1753 1}
+{1052 1,1198 2,1582 1,1751 1,1752 1}
+{5 1,6 1,116 1,1751 1}
+{108 1,1052 1,1132 1,1280 1,1344 1,1604 1,1753 1}

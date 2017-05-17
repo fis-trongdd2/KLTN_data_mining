@@ -1,0 +1,9 @@
+@relation gap
+
+@attribute word_0 numeric
+@attribute word_1 numeric
+
+@data
+{0 4,1 3.5}
+{0 8.5,1 2.7}
+{0 6,1 5}

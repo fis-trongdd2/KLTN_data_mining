@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="main/Main.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/source/KLTN_data_mining/lib/ajt-2.9.jar"/>
+	<classpathentry kind="lib" path="E:/source/KLTN_data_mining/lib/Jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/source/KLTN_data_mining/lib/javaml-0.1.7.jar"/>
+	<classpathentry kind="lib" path="E:/source/KLTN_data_mining/lib/libsvm-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/source/KLTN_data_mining/lib/weka.jar"/>
+	<classpathentry kind="lib" path="E:/source/KLTN_data_mining/lib/mallet-2.0.7.jar"/>
+	<classpathentry kind="lib" path="E:/source/KLTN_data_mining/lib/headvances.lib.ml-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/source/KLTN_data_mining/lib/trove-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/source/KLTN_data_mining/lib/headvances.lib.common-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

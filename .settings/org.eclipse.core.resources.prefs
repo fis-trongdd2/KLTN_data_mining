@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/data/Attribute.java=UTF-8
+encoding//src/data/Label.java=UTF-8
+encoding//src/data/RealData.java=UTF-8
+encoding//src/lda/VectorTopicModel.java=UTF-8
+encoding//src/parseData/Data.java=UTF-8
+encoding//src/parseData/FileIO.java=UTF-8

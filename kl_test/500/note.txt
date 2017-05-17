@@ -1,0 +1,44 @@
+
+=================500===============
+tn4
+tf-idf+lda+chi
+begin 1448
+
+================
+tn3
+tf-idf+chi
+begin 1423
+
+
+================
+tn2
+tf-idf+ lda
+begin 1448
+
+================
+tn1
+tf-idf
+begin 1423
+
+
+============1000===============
+tn4
+tf-idf+lda+chi
+begin 1942
+
+================
+tn3
+tf-idf+chi
+begin 1917
+
+
+================
+tn2
+tf-idf+ lda
+begin 1942
+
+================
+tn1
+tf-idf
+begin 1917
+

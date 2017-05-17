@@ -1,0 +1,14 @@
+--src
+	---data
+		ARFF.java : lay list gia tri tu file arff.
+		Distance.java : tinh va luu cac khoang cach vao file. co phuong thuc update sau moi lan gop cum.
+		WritingFile.java : ghi candidate vs cluster vao file
+		XML.java : doc file xml tim so nhan. ghi vao file  nhan.txt cac to hop. doc file tra ra list to hop.
+	---main
+		---Candidate.java : the hien co list value,list label. dua vao xml.combination set nhan gia.
+		---Cluster.java : getCentroid tinh tam, conputeDistance : khoang cach den cum khac.
+		---LiftProject.java : main.
+		---Point.java : luu diem phan biet.
+	---method.support
+		---MethodSupport.java : blah..blah
+		---LTSupport :		
